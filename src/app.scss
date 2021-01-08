@@ -1,5 +1,11 @@
 $brandColor: tomato;
 
+$backgroundLeft: lightblue;
+
+$backgroundRight: lightpink;
+
+
+
 
 h1 {
   background-color: $brandColor;
@@ -17,6 +23,13 @@ h1 {
   height: 250px;
   padding: 10px;
   position: relative;
+}
+
+.left {
+  background: $backgroundLeft
+}
+.right {
+  background: $backgroundRight
 }
 
 button {

@@ -16,6 +16,14 @@ h1 {
   position: relative;
 }
 
+.left {
+  background: lightblue;
+}
+
+.right {
+  background: lightpink;
+}
+
 button {
   width: 100px;
   height: 50px;
